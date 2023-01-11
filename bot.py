@@ -6,7 +6,7 @@ chdir('C:/Users/eshbe/Desktop/gpt-2-finetuning/src')
 
 client = discord.Client()
 
-TOKEN = 'NzkyMTgwOTg1NzMxMDg4Mzg0.X-Z-CQ.dxjf5UJFz1QnTSkiOSvgsx9iH7c'
+TOKEN = 'XXX'
 
 @client.event
 async def on_ready():
